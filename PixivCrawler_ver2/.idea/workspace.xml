@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4c56c3be-63b1-437e-b0af-d8fefeb877d6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/PixivCrawler_ver2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/98.0.4697.0.manifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/D3DCompiler_47.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/First Run" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/MEIPreload/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/MEIPreload/preloaded_data.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/chrome.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/chrome.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/chrome_100_percent.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/chrome_200_percent.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/chrome_elf.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/chrome_proxy.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/chrome_pwa_launcher.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/debug.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/elevation_service.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/eventlog_provider.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/icudtl.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/interactive_ui_tests.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/libEGL.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/libGLESv2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/locales/am.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/locales/ar-XB.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/locales/ar.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/locales/bg.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/locales/bn.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/locales/ca.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/locales/cs.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/locales/da.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/locales/de.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/locales/el.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/locales/en-GB.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/locales/en-US.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/locales/en-XA.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/locales/es-419.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/locales/es.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/locales/et.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/locales/fa.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/locales/fi.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/locales/fil.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/locales/fr.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/locales/gu.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/locales/he.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/locales/hi.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/locales/hr.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/locales/hu.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/locales/id.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/locales/it.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/locales/ja.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/locales/kn.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/locales/ko.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/locales/lt.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/locales/lv.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/locales/ml.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/locales/mr.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/locales/ms.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/locales/nb.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/locales/nl.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/locales/pl.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/locales/pt-BR.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/locales/pt-PT.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/locales/ro.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/locales/ru.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/locales/sk.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/locales/sl.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/locales/sr.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/locales/sv.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/locales/sw.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/locales/ta.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/locales/te.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/locales/th.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/locales/tr.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/locales/uk.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/locales/vi.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/locales/zh-CN.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/locales/zh-TW.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/mojo_core.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/nacl_irt_x86_64.nexe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/notification_helper.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/resources.pak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/swiftshader/libEGL.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/swiftshader/libGLESv2.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/v8_context_snapshot.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/vk_swiftshader.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/vk_swiftshader_icd.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chrome-win/vulkan-1.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spiders/fake_middlewares.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webdrivers/basemap-1.2.1-cp37-cp37m-win32.whl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webdrivers/chrome_Xpath_v2.0.2/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webdrivers/chrome_Xpath_v2.0.2/background.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webdrivers/chrome_Xpath_v2.0.2/background.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webdrivers/chrome_Xpath_v2.0.2/bar.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webdrivers/chrome_Xpath_v2.0.2/bar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webdrivers/chrome_Xpath_v2.0.2/bar.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webdrivers/chrome_Xpath_v2.0.2/content.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webdrivers/chrome_Xpath_v2.0.2/content.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webdrivers/chrome_Xpath_v2.0.2/gallery/description.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webdrivers/chrome_Xpath_v2.0.2/gallery/promo_440x280.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webdrivers/chrome_Xpath_v2.0.2/gallery/screenshot_640x400.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webdrivers/chrome_Xpath_v2.0.2/images/IndieFlower.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webdrivers/chrome_Xpath_v2.0.2/images/icon.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webdrivers/chrome_Xpath_v2.0.2/images/icon_base64.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webdrivers/chrome_Xpath_v2.0.2/images/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webdrivers/chrome_Xpath_v2.0.2/images/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webdrivers/chrome_Xpath_v2.0.2/images/promo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webdrivers/chrome_Xpath_v2.0.2/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webdrivers/chrome_Xpath_v2.0.2/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webdrivers/chrome_Xpath_v2.0.2/static/icon_128x128.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webdrivers/chrome_Xpath_v2.0.2/static/icon_16x16.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webdrivers/chrome_Xpath_v2.0.2/static/icon_19x19.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webdrivers/chrome_Xpath_v2.0.2/static/icon_32x32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webdrivers/chrome_Xpath_v2.0.2/static/icon_38x38.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webdrivers/chrome_Xpath_v2.0.2/static/icon_48x48.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webdrivers/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webdrivers/chromedriver.exe_32803171.bak" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webdrivers/chromedriver_win32/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/PixivCrawler_ver2.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/PixivCrawler_ver2.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img_list.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/items.py" beforeDir="false" afterPath="$PROJECT_DIR$/items.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/middlewares.py" beforeDir="false" afterPath="$PROJECT_DIR$/middlewares.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pipelines.py" beforeDir="false" afterPath="$PROJECT_DIR$/pipelines.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spiders/pixivspider.py" beforeDir="false" afterPath="$PROJECT_DIR$/spiders/pixivspider.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/start.py" beforeDir="false" afterPath="$PROJECT_DIR$/start.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2X51Noc3AIqFwtZjCaGZ6VHgV5C" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Python_Project/PixivCrawler_ver2&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="start" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PixivCrawler_ver2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/start.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4c56c3be-63b1-437e-b0af-d8fefeb877d6" name="Changes" comment="" />
+      <created>1697904090352</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1697904090352</updated>
+      <workItem from="1697904091950" duration="819000" />
+      <workItem from="1697905107580" duration="65000" />
+      <workItem from="1698164507999" duration="868000" />
+      <workItem from="1699088212717" duration="1658000" />
+      <workItem from="1699614984497" duration="3367000" />
+      <workItem from="1726021899932" duration="1814000" />
+      <workItem from="1726813728325" duration="505000" />
+      <workItem from="1758126663621" duration="19000" />
+      <workItem from="1758126690987" duration="610000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/pixivspider_py$start.coverage" NAME="start Coverage Results" MODIFIED="1699616341236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/PixivCrawler_ver2$start.coverage" NAME="start Coverage Results" MODIFIED="1697904632401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
